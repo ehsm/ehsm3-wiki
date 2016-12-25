@@ -1,11 +1,11 @@
-# Page to track organization of EHSM3
+
 
 ## AIM of EHSM 
 To showcase the best of the best in do it yourself and hacking 
 
 ## Communication methods:
 * Email list Team@ehsm.eu
-* [Wiki](https://github.com/ehsm/ehsm3-wiki/ehsm3.md) 
+* [Wiki](https://github.com/ehsm/ehsm3-wiki/blob/master/ehsm3.md) 
 
 ## Advertising
 
