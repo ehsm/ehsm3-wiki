@@ -67,5 +67,5 @@ To showcase the best of the best in do it yourself and hacking
  5. [National Library of Latvia](http://www.lnb.lv/en/conference-and-events-premises/ziedonis-hall) Riga, Latvia
  6. [Vilnius University](http://www.vu.lt) Vilnius, Lithuania 
 
-# Markdown guide
+## Markdown guide
 [here](https://guides.github.com/features/mastering-markdown/)
