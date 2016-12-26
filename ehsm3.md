@@ -46,6 +46,8 @@ To showcase the best of the best in do it yourself and hacking
   
 ### Contact hacker spaces in these areas
 
+* Berlin
+  1. [c-base](https://www.c-base.org/)
 * Tallinn
   1. [Skeemipesa](http://www.skeemipesa.ee/)
 * Tartu
