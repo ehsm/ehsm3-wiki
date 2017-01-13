@@ -48,6 +48,7 @@ To showcase the best of the best in do it yourself and hacking
 
 * Berlin
   1. [c-base](https://www.c-base.org/)
+  2. [e-lab Open Makerspace](https://www.meetup.com/de-DE/eLAB-Makerspace/)
 * Tallinn
   1. [Skeemipesa](http://www.skeemipesa.ee/)
 * Tartu
@@ -62,11 +63,15 @@ To showcase the best of the best in do it yourself and hacking
  
  Need lecture hall around 300 people, eating options/catering, workshop rooms with nearby accommodation
  
- 1. [Ahaa science center](http://www.ahhaa.ee/) Tartu, Estonia 
+ 1. [Ahaa science center](http://www.ahhaa.ee/) Tartu, Estonia
+    Lecture hall for 150, some space for workshops. Several smaller rooms also available. Mini maker faire on 20 May. 
  2. [Mektory](http://www.ttu.ee/projects/mektory-eng/mektory-center/reservable-rooms/) Tallinn, Estonia
+    Lecture hall for 300, workshop space, catering can be arranged, accommodation nearby - [Tähetorni Hotel](http://www.thotell.ee/), student dorms
  3. [Riga Technical University](http://www.rtu.lv/en) Riga, Latvia 
  4. [University of Latvia](http://www.lu.lv/eng/) Riga, Latvia or [University of Latvia, Institute of electronics and computer science](http://www.edi.lv/en/home/events/nrp-sophis-seminar-/)
+    [Academic center for Natural Sciences](http://www.tornakalns.lv/eng/) Possibly 14-16 April
  5. [National Library of Latvia](http://www.lnb.lv/en/conference-and-events-premises/ziedonis-hall) Riga, Latvia
+    Possibly 21 April, 28 April, 22 September, 3 November
  6. [Vilnius University](http://www.vu.lt) Vilnius, Lithuania 
 
 ## Markdown guide
