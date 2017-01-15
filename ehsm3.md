@@ -28,6 +28,13 @@ To showcase the best of the best in do it yourself and hacking
 
 * Fix this by mid-January.
 
+## Regional Transport Options
+* [Ecolines](https://ecolines.net/) - 10% group discount for 6 or more
+* [Lux express](https://luxexpress.eu/) - 10% youth discount, lower price for early purchase
+* [Eurolines](http://www.eurolines.com) - 10% group discount for 10 or more
+* [Air Baltic](https://www.airbaltic.com)
+* [Nordica](https://www.nordica.ee/)
+
 ## Organizing team 
 * Between 10-15 people
 
