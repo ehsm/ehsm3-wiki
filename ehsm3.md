@@ -80,6 +80,10 @@ To showcase the best of the best in do it yourself and hacking
  5. [National Library of Latvia](http://www.lnb.lv/en/conference-and-events-premises/ziedonis-hall) Riga, Latvia
     Possibly 21 April, 28 April, 22 September, 3 November
  6. [Vilnius University](http://www.vu.lt) Vilnius, Lithuania 
-
+Places a little further away
+ 7. [Otepää](https://en.wikipedia.org/wiki/Otep%C3%A4%C3%A4) Otepää, Estonia [GMP club hotel](http://www.clubhotel.ee), [Pühajärve hotel](http://www.pyhajarve.com/)
+ 8. [Saaremaa](http://www.saaremaa.ee/) Saaremaa, Estonia
+ 9. [Pärnu](http://parnu.ee) Pärnu, Estonia [Estonia resort hotel and spa](http://www.spaestonia.ee/)
 ## Markdown guide
+
 [here](https://guides.github.com/features/mastering-markdown/)
